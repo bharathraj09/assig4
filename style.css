@@ -1,0 +1,91 @@
+body{
+	margin: 0;
+}
+
+.main{
+	border: 2px solid black;
+	padding: 40px;
+	border-spacing: 40px;
+}
+
+.heading1{
+	color: white;
+	text-align: center;
+	padding: 25px;
+	background-color: #0A122A;
+	margin: 0;
+	font-style: bold;
+	font-weight: 600px;
+}
+.left{
+	font-size: 25px;
+	padding-left: 350px;
+}
+
+
+.div{
+	background: url(p1.jpg);
+	background-repeat: no-repeat;
+	background-position: left;
+	background-size: 350px;
+  	border: 5px dotted red;
+  	padding: 15px;
+  	width: 1850px;
+  	margin: 20px;
+}
+
+.div h3{
+	font-size: 2rem;
+	padding-left: 350px;
+}
+
+table, th, td{
+	border: 2px solid;
+	margin: 0;
+	padding: 15px;
+	border-collapse: collapse;
+	font-size: 17px;
+}
+
+table{
+	width: 100%;
+}
+
+th{
+	font-size: 1.2em;
+}
+
+td{
+	height: 65px; 
+	font-size: 1.2em;
+}
+
+
+.skill b{
+	color: brown;;
+	font-weight: 600;
+	padding: 0;
+}
+
+.skill p{
+	padding-left: 15px;
+}
+
+.skill li{
+	font-size: 1.2em;
+}
+
+.intern li, p{
+	font-size: 1.2em;
+}
+
+.project li, p{
+	font-size: 1.2em;
+}
+
+.prizes li, p{
+	font-size: 1.2em;
+}
+
+
+
